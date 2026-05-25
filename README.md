@@ -1,4 +1,3 @@
-medical-diagnosis-system
 Rule-based medical diagnosis system using Prolog and Python
 This project is a rule-based medical diagnosis system that identifies possible diseases based on user symptoms using a Prolog inference engine integrated with Python.
 
